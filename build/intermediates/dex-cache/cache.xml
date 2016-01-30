@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\JiKeXueYuanClassDemo\HTTP-requests-network-framework\源码\VolleyDemo\libs\Volley.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2dd908289a096a92b5f266cefb6c1bda32762cef">
+        <dex dex="E:\JiKeXueYuanClassDemo\HTTP-requests-network-framework\源码\VolleyDemo\build\intermediates\pre-dexed\debug\Volley-c4ae724b6e8f69132680840570212bf902ddebc2.jar" />
+    </item>
+    <item
+        jar="E:\JiKeXueYuanClassDemo\HTTP-requests-network-framework\源码\VolleyDemo\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="E:\JiKeXueYuanClassDemo\HTTP-requests-network-framework\源码\VolleyDemo\build\intermediates\pre-dexed\debug\android-support-v4-87f3888e8d02f11ac6deaa85955caed24adbca17.jar" />
+    </item>
+
+</items>
